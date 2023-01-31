@@ -1,6 +1,6 @@
 # Orange Bees Internship
 ### Navigation
-[Home](internship.reveille.dog)
+[Home](/)
 
 [Daily Journals](/daily-journals)
 
